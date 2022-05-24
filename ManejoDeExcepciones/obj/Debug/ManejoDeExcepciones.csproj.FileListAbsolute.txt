@@ -1,0 +1,7 @@
+C:\Users\Sebas\OneDrive\Documentos\GitHub\ManejoDeExcepciones\ManejoDeExcepciones\bin\Debug\ManejoDeExcepciones.exe.config
+C:\Users\Sebas\OneDrive\Documentos\GitHub\ManejoDeExcepciones\ManejoDeExcepciones\bin\Debug\ManejoDeExcepciones.exe
+C:\Users\Sebas\OneDrive\Documentos\GitHub\ManejoDeExcepciones\ManejoDeExcepciones\bin\Debug\ManejoDeExcepciones.pdb
+C:\Users\Sebas\OneDrive\Documentos\GitHub\ManejoDeExcepciones\ManejoDeExcepciones\obj\Debug\ManejoDeExcepciones.csproj.AssemblyReference.cache
+C:\Users\Sebas\OneDrive\Documentos\GitHub\ManejoDeExcepciones\ManejoDeExcepciones\obj\Debug\ManejoDeExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\OneDrive\Documentos\GitHub\ManejoDeExcepciones\ManejoDeExcepciones\obj\Debug\ManejoDeExcepciones.exe
+C:\Users\Sebas\OneDrive\Documentos\GitHub\ManejoDeExcepciones\ManejoDeExcepciones\obj\Debug\ManejoDeExcepciones.pdb
