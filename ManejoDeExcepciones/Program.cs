@@ -18,9 +18,15 @@ namespace ManejoDeExcepciones
                 Console.Write("Ingresa un numero entero para elevar al cuadrado: ");
                 Num = int.Parse(Console.ReadLine());
                 NumCuadrado = Math.Pow(Num, 2);
-                
+
+                Console.WriteLine("El numero " + Num + " al cuadrado es: " + NumCuadrado);
             }
-            catch(FormatException x)
+
+            catch (NullReferenceException x)
+            {
+                Console.WriteLine(x.Message);
+            }
+            catch (FormatException x)
             {
                 Console.WriteLine(x.Message);
             }
@@ -28,14 +34,7 @@ namespace ManejoDeExcepciones
             {
                 Console.WriteLine(x.Message);
             }
-            catch(NullReferenceException x)
-            {
-                Console.WriteLine(x.Message);
-            }
-            catch (Exception x)
-            {
-                Console.WriteLine(x.Message);
-            }
+            Console.ReadKey();
         }
     }
 }
