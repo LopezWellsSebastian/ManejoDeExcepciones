@@ -21,11 +21,6 @@ namespace ManejoDeExcepciones
 
                 Console.WriteLine("El numero " + Num + " al cuadrado es: " + NumCuadrado);
             }
-
-            catch (NullReferenceException x)
-            {
-                Console.WriteLine(x.Message);
-            }
             catch (FormatException x)
             {
                 Console.WriteLine(x.Message);
